@@ -14,4 +14,4 @@ cvs, Numpy, scipy.fftpack , matplotlib, copy, ast,
 2. Run part1a.py file : Implementation of Fourier Transform to detect Ar tag in the single video frame
 3. Run part1b.py file : Implementation of corner detection scheme to detect corner of Ar tag, identify its orientation,rotate it to upside down and decode                         Ar tag using given decoding scheme. 
 4. Run part2a.py file : Superimpose the given image in place of Ar tag in each video frame.
-5. Run part2b.py file : Superimpoes virtual 3D cube above the Ar tag. This is simplest implementation of virutal reality.
+5. Run part2b.py file : Superimpose virtual 3D cube above the Ar tag. This is simplest implementation of virutal reality.
