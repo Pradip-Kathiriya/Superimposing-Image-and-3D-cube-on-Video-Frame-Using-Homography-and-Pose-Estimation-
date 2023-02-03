@@ -43,5 +43,5 @@ Python 2.0 or above
 
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Copyright (c) Jan 2023 Pradip Kathiriya
+Copyright (c) Feb 2023 Pradip Kathiriya
 
