@@ -9,6 +9,7 @@ This Project is divided into two parts:
 
 Input video:
 
+https://user-images.githubusercontent.com/90370308/216849660-b0b0f515-5df5-4e5f-a041-a71faf96a0fa.mp4
 
 ![1tagvideo_AdobeExpress](https://user-images.githubusercontent.com/90370308/216509501-92cef3d1-141d-4ce1-ba4f-b7fa5b74b39a.gif)
 
@@ -30,9 +31,13 @@ to guarantee that every video frame gets a point from the testudo image.
 
 Result for part 1:
 
+https://user-images.githubusercontent.com/90370308/216849728-c8ec2881-39d5-485d-88b8-4300c7aed5e7.mp4
+
 ![Testudo_imposed_AdobeExpress](https://user-images.githubusercontent.com/90370308/216512844-044bd934-a6ec-4db6-8040-f2e5646f870b.gif)
 
 Results for part 2:
+
+https://user-images.githubusercontent.com/90370308/216849730-ddb7aa19-9db0-4599-b4ae-97c702cb266e.mp4
 
 ![cube_imposed_AdobeExpress](https://user-images.githubusercontent.com/90370308/216512944-e20929f4-e12e-4787-a2ca-795e05968879.gif)
 
