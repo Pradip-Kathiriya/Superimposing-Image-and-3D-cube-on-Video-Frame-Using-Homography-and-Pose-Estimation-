@@ -3,9 +3,15 @@
 ### Project Description:
 
 This Project is divided into two parts:
-1. In part 1, I have used the concepts of projective geometry and homographies to project an image on a scene in a way that respects perspective. To demonstrate this, I have projected Testudo (University of Maryland's mascot) image into the video frame. We are provided with the Testudo image and video with AprilTag. Our task is to track the april tag by identifying its corner, decode the april tag to indetify its orientation, and perfrom the warping to project the Testudo in the place of AprilTag in the video frame.
+1. In part 1, I have used the concepts of projective geometry and homography to project an image on a scene in a way that respects perspective. To demonstrate this, I have projected the Testudo (The University of Maryland's mascot) image into the video frame. We are provided with the Testudo image and video with AprilTag. Our task is to track the April tag by identifying its corner, decode the April tag to identify its orientation and perform the warping to project the Testudo in the place of AprilTag in the video frame.
 
-2. In part 2, I have used the tracking and pose estimation from projective transformation to implement a simple augemented reality application. There are two steps in this process. First, identify the AprilTag and get the position of the corner across different frames. Then, we have to use the homography estimation to compute the 3D pose of a set of 4 points in the world and, instead of simply overlaying image like in part 1, render a 3D object in a frame. For simplicity we will be rendering a cube, but in principle, any object could be used. The goal is to form a set of 4 points on the image with known coordinates(AprilTag), find the necessary position and orientation to draw the cube over the points.
+2. In part 2, I used the tracking and pose estimation from projective transformation to implement a simple augmented reality application. There are two steps in this process. First, identify the AprilTag and get the position of the corner across different frames. Then, we have to use the homography estimation to compute the 3D pose of a set of 4 points in the world and, instead of simply overlaying the image like in part 1, render a 3D object in a frame. For simplicity, we will be rendering a cube, but in principle, any object could be used. The goal is to form a set of 4 points on the image with known coordinates(AprilTag) and find the necessary position and orientation to draw the cube over the points.
+
+This Project is divided into two parts:
+
+
+
+
 
 Input video:
 
